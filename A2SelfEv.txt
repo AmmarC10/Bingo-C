@@ -1,0 +1,10 @@
+ Our program(s):
+ 1. Are free of runtime errors 
+ 2. Generates the expected output (It is able to play the game)
+ 3. Implements a list ADT as required 
+ 4. Pass testing with both good and bad input files 
+ 5. Performs checking of command line arguments 
+ 6. Performs checking of CardFile for correct format 
+ 7. Compile correctly and does not display warnings
+ 8. Use a makefile as required
+  - We invested 15 hours working on this assignment.
