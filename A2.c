@@ -1,8 +1,4 @@
-/*
-a42chowd, Chowdhury, Afnan, 501038102, Section 09
-m2tanvee, Tanveer, Muhammad Furrukh, 501035362, Section 01
-a65chaud, Chaudhry, Ammar, 501029828, Section 05
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
